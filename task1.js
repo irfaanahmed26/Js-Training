@@ -1,0 +1,14 @@
+var studentName = "Irfaan";
+var age = 21;
+var mark = 85;
+console.log(studentName);
+console.log(age);
+console.log(mark);
+var name = prompt("Enter Your Name");
+alert("Your name is " + name);
+var age = prompt("Enter Your Age:");
+console.log(age);
+var answer = confirm("Are you ready to learn js?");
+console.log(answer);
+var name= prompt("Enter Your Name For Webpage");
+document.writeln(name);
